@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "word": "avatar",
+      "category": "movie"
+    },
+    {
+      "word": "titanic",
+      "category": "movie"
+    },
+    {
+      "word": "transformers",
+      "category": "movie"
+    },
+    {
+      "word": "frozen",
+      "category": "movie"
+    },
+    {
+      "word": "inception",
+      "category": "movie"
+    },
+    {
+      "word": "psycho",
+      "category": "movie"
+    },
+    {
+      "word": "tahiti",
+      "category": "place"
+    },
+    {
+      "word": "santorini",
+      "category": "place"
+    },
+    {
+      "word": "maldives",
+      "category": "place"
+    },
+    {
+      "word": "phuket",
+      "category": "place"
+    },
+    {
+      "word": "venice",
+      "category": "place"
+    }
+  ],
+  "alphabet": [
+    "a", "b", "c", "d", "e", "f", "g", "h",
+    "i", "j", "k", "l", "m", "n", "o", "p",
+    "q", "r", "s", "t", "u", "v", "w", "x",
+    "y", "z"
+  ]
+}
